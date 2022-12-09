@@ -3,7 +3,7 @@
 <?php include("head.php") ?>
 
 <body>
-    <?php include("menu.php") ?>
+    <?php include("menuProduto2.php") ?>
     <?php require_once("../controller/ControllerEditarProduto.php");?>
     <div class="row">
         <form method="post" action="../controller/ControllerEditarProduto.php" id="form" name="form" class="col-10">

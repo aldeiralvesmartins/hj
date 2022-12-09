@@ -3,7 +3,7 @@
 <?php include("head.php") ?>
 
 <body>
-    <?php include("menuCliente.php") ?>
+    <?php include("menuCliente2.php") ?>
     <div class="row">
         <form method="post" action="../controller/ControllerCadastroCliente.php" id="form" name="form" class="col-10">
             <div class="form-group">

@@ -12,7 +12,7 @@ class CadastroProduto extends BancoProduto {
         $this->nome = $string;
     }
     public function setValor($string){
-        $this->cpf = $string;
+        $this->valor = $string;
     }
 
     //Metodos Get
